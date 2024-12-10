@@ -1,4 +1,6 @@
-## Selenite
+## Selenite | reupload
+Go support the original!
+- new games will be added if im allowed =0.0=
 The better unblocked games website.
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/selenite-cc/selenite)

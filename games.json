@@ -98,7 +98,7 @@
   },
       {
     "name": "CMM Client",
-    "image": "cover.svg",
+    "image": "cover.png",
     "directory": "cmm-client",
     "recommended": "1"
   },
